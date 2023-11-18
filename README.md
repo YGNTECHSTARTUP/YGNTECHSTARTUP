@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm YGN</h1>
-<h3 align="center">A passionate about webdev and ai</h3>
+<h3 align="center">I am  passionate about webdev and ai</h3>
 
 - 🔭 I’m currently working on [ygndiscussions](https://github.com/YGNTECHSTARTUP/ygndiscussi)
 
