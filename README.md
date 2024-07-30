@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on ygndiscussions<br><br>🌱 I’m currently learning Nextjs,trpc<br><br>📝 I regularly write articles on [nextjs,frontend frameworks](nextjs,frontend frameworks)<br><br>💬 Ask me about react,javascript,typescript<br><br>📫 How to reach me ygntechstartup@gmail.com<br><br>⚡ Fun fact I think i am smart
+🔭 I’m currently working on ygndiscussions<br><br>🌱 I’m currently learning Rust<br><br>📝 I regularly write articles on [nextjs,frontend frameworks](nextjs,frontend frameworks)<br><br>💬 Ask me about react,javascript,typescript<br><br>📫 How to reach me ygntechstartup@gmail.com<br><br>⚡Fun Fact Many typists find that they can type faster and more comfortably on external mechanical keyboards compared to internal laptop keyboards. This is often due to the tactile feedback and greater key travel distance of mechanical keyboards, which can reduce typing fatigue and increase accuracy.
 
 
 ## 🌐 Socials:
