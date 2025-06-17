@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Real Time Data Distribution<br><br>🌱 I’m currently learning Rust<br><br>📝 I regularly write articles on [nextjs,rust](nextjs,rust)<br><br>💬 Ask me about react,javascript,typescript,rust<br><br>📫 How to reach me ygntechstartup@gmail.com<br><br>⚡Sometimes DayDreaming Helps to reach our Goals
+🔭 I’m currently working on Concurrency & Distributed Systems<br><br>🌱 I’m currently learning Rust<br><br>📝 I regularly write articles on [nextjs,rust](nextjs,rust)<br><br>💬 Ask me about react,javascript,typescript,rust<br><br>📫 How to reach me ygntechstartup@gmail.com<br><br>⚡Sometimes DayDreaming Helps to reach our Goals
 
 
 ## 🌐 Socials:
